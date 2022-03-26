@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![bbonaldi's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1860zih001009l1tmcnle28?cursusId=60)](https://github.com/JaeSeoKim/badge42)
 <!--
 **brunobonaldi94/brunobonaldi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
